@@ -10,10 +10,10 @@ Este proyecto trata de crear una visualización en Tableau a partir de una base 
 
 El objetivo de este proyecto es construir mi primer Dashbord para poder sacar conclusiones visuales a través de los gráficos que se pueden obtener a través de los datos.
 Los pasos que he seguido estan detallados a continuación:
--Primero descargue la base de datos en MySQL.
--Después la pasé a Tableau.
--Hice las relaciones y creé manualmente las que no se producían solas.
--A continuación hice los siguientes apartados para el análisis exploratorio:
+`Primero descargue la base de datos en MySQL.`
+`Después la pasé a Tableau.`
+``Hice las relaciones y creé manualmente las que no se producían solas.''
+`A continuación hice los siguientes apartados para el análisis exploratorio:`
 - Recuento de ventas por Estado
 - Recuento de ventas por autor
 - Ingresos por libro
