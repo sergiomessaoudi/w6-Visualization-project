@@ -14,12 +14,12 @@ Los pasos que he seguido estan detallados a continuación:
 -Después la pasé a Tableau.
 -Hice las relaciones y creé manualmente las que no se producían solas.
 -A continuación hice los siguientes apartados para el análisis exploratorio:
-*Recuento de ventas por Estado
-*Recuento de ventas por autor
-*Ingresos por libro
-*Titulos y editorial             
-*Que dia del mes se hacen los pedidos.
-*Libros más vendidos 
+- Recuento de ventas por Estado
+- Recuento de ventas por autor
+- Ingresos por libro
+- Titulos y editorial             
+- Que dia del mes se hacen los pedidos.
+- Libros más vendidos 
 
 
 ## TECNOLOGÍAS UTILIZADAS
