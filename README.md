@@ -12,8 +12,8 @@ El objetivo de este proyecto es construir mi primer Dashbord para poder sacar co
 Los pasos que he seguido estan detallados a continuación:
 `Primero descargue la base de datos en MySQL.`
 `Después la pasé a Tableau.`
-``Hice las relaciones y creé manualmente las que no se producían solas.''
-`A continuación hice los siguientes apartados para el análisis exploratorio:`
+`Hice las relaciones y creé manualmente las que no se producían solas.`
+A continuación creé los siguientes apartados para el análisis exploratorio:`
 - Recuento de ventas por Estado
 - Recuento de ventas por autor
 - Ingresos por libro
