@@ -3,7 +3,7 @@
 
 ## INTRODUCCION
 
-Este proyecto trata de visualizar una base de datos de mySQL sobre publicaciones literarias en los EE.UU.
+Este proyecto trata de crear una visualización en Tableau a partir de una base de datos de mySQL sobre publicaciones literarias en los EE.UU.
 
 ## OBJETIVOS DEL PROYECTO
 
